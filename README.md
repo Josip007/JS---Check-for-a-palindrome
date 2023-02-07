@@ -1,0 +1,1 @@
+# JS---Check-for-a-palindrome
